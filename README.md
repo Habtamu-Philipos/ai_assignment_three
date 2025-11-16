@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
+[part one answer.pdf](https://github.com/user-attachments/files/23567082/part.one.answer.pdf)
 
 ## Overview
 
